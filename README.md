@@ -14,7 +14,7 @@ The project follows the Medallion Architecture:
 - **Silver Layer:** Processes and cleans data.
 - **Gold Layer:** Organizes transformed data for business analytics.
 
-[View Project Architecture](docs/architecture.md)
+![Project Architecture](docs/architecture.md)
 
 ## Technologies Used
 
@@ -68,6 +68,8 @@ E-Commerce-Sales-Data-Engineering-Pipeline/
 │   └── E-Commerce-Project-Documentation.pdf
 │
 ├── dashboard/
+├── sql/
+├── src/
 └── README.md
 ```
 
